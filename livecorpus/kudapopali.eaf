@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T18:19:46+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Xiaomi/Desktop/kudapopali.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./kudapopali.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a5ee8e92-e785-4803-890e-f583ba26253f</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">32</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="20"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="9460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="10470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="16240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="16390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="18890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="18920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="20700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="20720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="22150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="23030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="27370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="27370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="33030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="33350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="36780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="36920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="39000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="39050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="42310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="43175"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="46175"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="46830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="52420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="52440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="54100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="54140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="57720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="57740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="61810"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="ssofiyk" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@tvc1947f" TIER_ID="text@tvc1947f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>это что такое / у нас делается / ммм / в мозгах //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>и можно ли это воспроизвести / на искусственном / ммм / носителе // мм // не биологическом? // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>да / потому что / для того чтобы программа / что-нибудь могла уметь / в нее нужно вложить это //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>она сама по себе / ниче / ннн / не делает //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>чему ты ее научишь / то она делает //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>а как можно научить? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>научить можно / только / эээ / личным присутствием //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>понимаете / нельзя научить человека / писать / эээ / полотна как Леонардо да Винчи //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ну / ну как ты это на... / ты что / учебник напишешь? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ка... / как это сделать? / никак //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>только ученики / которые будут болтаться вокруг //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>десять лет растирать краски / вот / камнем / да? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>ээ / приглядываться / принюхиваться / он будет их / эээ / вообще посылать / там каждую минуту //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>и у них будет страшная жизнь //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>но они потом окажутся / унчик... / учениками Леонардо //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>нет программ / которые могут это / это на нюх //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ssofiyk" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@tvc1947f"
+        PARTICIPANT="@tvc1947f" TIER_ID="transl@tvc1947f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>What is going on ... mmm... in our brains? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>And is it possible to reproduce it on an artificial ... mmm ... carrier ... mm ... not biological?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Yes, because in order to the program to be able to do something you need to invest this into it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>It is on its own does not ... nnn ... do anything.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>What you teach it, it does.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>How can we teach?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>You can teach only ... mmm ... by personal presence.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Do you understand, it is impossible to teach a person to paint ... mmm ... canvases like Leonardo da Vinci.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>So, so how you will...   Are you going to write textbook? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Ho... How to do it ? Nohow </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Only students, who will be hanging around</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Ten years rubbing pains, well, with a stone, yes?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Taking a closer look, sniffing, he will send ... mmm ... them about every minute.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>They will have scary life.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>But then they will be stud... students of Leonardo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>There are no programs, which can it, it is on the nose.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
